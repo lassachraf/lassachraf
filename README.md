@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achraf Lassiqui</h1>
-<h3 align="center">Computer Science Student at UM6P - 1337 Coding School</h3>
+<h3 align="center">Computer Science Student @ UM6P - 1337 Coding School</h3>
 <br>
 <p align="center"><img alt="alassiqu-badge" src="https://badge.mediaplus.ma/darkblue/alassiqu" ></p>
 <br>
