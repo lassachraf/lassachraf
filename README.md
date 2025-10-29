@@ -38,10 +38,22 @@
 
 <h3 align="left">Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lassachraf&show_icons=true&locale=en&layout=compact" alt="lassachraf" /></p>
+<a href="https://github.com/Wahmane-Hamza" width="100%">
+  <img height=200 align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=lassachraf&show_icons=true&card_width=500&theme=tokyonight" />
+</a>
+<h1></h1>
+<a href="https://github.com/Wahmane-Hamza" align="center" width="100%">
+  <img height=200 align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=lassachraf&show_icons=true&card_width=500&theme=tokyonight" />
+</a>
+<h1></h1>
+<a href="https://github.com/Wahmane-Hamza" width="100%">
+  <img height=200 align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lassachraf&layout=compact&langs_count=20&card_width=550&theme=tokyonight" />
+</a>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lassachraf&show_icons=true&locale=en&layout=compact" alt="lassachraf" /></p>
 <br><br><br>
 <br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lassachraf&show_icons=true&locale=en" alt="lassachraf" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lassachraf&" alt="lassachraf" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lassachraf&" alt="lassachraf" /></p> -->
 
